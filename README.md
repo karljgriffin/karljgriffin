@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karljgriffin
-- 👀 I’m interested in coding as a hobby
-- 🌱 I’m currently learning Python and SQL, while doing a PhD in Chemistry at University College Dublin
+- 👀 I’m interested in working in tech
+- 🌱 I have a graduate-level grasp of Python and SQL, and I am in final year of a PhD in device physics at University College Dublin
 - 📫 How to reach me ... karl.griffin@ucdconnect.ie
 
 <!---
